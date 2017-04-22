@@ -1,0 +1,8 @@
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\bin\Debug\grafika_lab1.exe.config
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\bin\Debug\grafika_lab1.exe
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\bin\Debug\grafika_lab1.pdb
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\obj\Debug\grafika_lab1.Form1.resources
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\obj\Debug\grafika_lab1.Properties.Resources.resources
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\obj\Debug\grafika_lab1.csproj.GenerateResource.Cache
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\obj\Debug\grafika_lab1.exe
+c:\users\zapio\documents\visual studio 2017\Projects\grafika_lab1\grafika_lab1\obj\Debug\grafika_lab1.pdb
